@@ -1,6 +1,7 @@
 {
-    "name": "yii2tech/illuminate",
+    "name": "akulik/illuminate",
     "description": "Yii2 to Laravel Migration Package",
+    "type": "library",
     "keywords": ["yii2", "laravel", "illuminate", "migration", "switch"],
     "license": "BSD-3-Clause",
     "support": {

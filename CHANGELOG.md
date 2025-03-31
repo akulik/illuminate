@@ -1,6 +1,12 @@
 Yii2 to Laravel Migration Package Change Log
 ============================================
 
+1.3.2, March 31, 2025
+---------------------
+
+- Enh: Added support for "illuminate/*" 12.0 (klimov-paul)
+
+
 1.3.1, March 25, 2024
 ---------------------
 
